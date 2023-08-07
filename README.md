@@ -118,11 +118,11 @@
   <a href="https://git.io/streak-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
     <img src="https://streak-stats.demolab.com?user=mojnomiya&theme=tokyonight&mode=daily&border=DD2BC7" 
          width="50%" height="125px" alt="My GitHub Streak was once here..." />
-  <!-- </a>
+  </a>
     <a href="https://git.io/streak-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
     <img src="https://streak-stats.demolab.com?user=mojnomiya&theme=buefy&mode=daily&border=DD2BC7" 
          width="49%" alt="My GitHub Streak was once here..." />
-  </a> -->
+  </a>
    
 
 
@@ -141,10 +141,10 @@
        alt"Check out my commit history!" />
   </a>
   
-  <!-- <a href="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg" 
+  <a href="https://raw.githubusercontent.com/mojnomiya/mojnomiya/media/github-contribution-grid-snake.svg#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/mojnomiya/mojnomiya/media/github-contribution-grid-snake.svg" 
          alt"Check out my commit history!" />
-  </a> -->
+  </a>
 </p>
 </details>
 
