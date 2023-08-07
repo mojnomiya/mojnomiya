@@ -82,7 +82,7 @@ jobs:
       
       # Generates a snake game from a GitHub user contributions graph
       - name: Generate GitHub contribution snake
-        uses: Platane/snk@v0.0.16
+        uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
