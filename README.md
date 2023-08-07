@@ -110,10 +110,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=mojnomiya&show_icons=true&theme=tokyonight&border_color=DD2BC7" 
          width="49%" alt="My GitHub Stats were once here..." />
   </a>
-    <!-- <a href="https://github.com/mojnomiya/github-readme-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/mojnomiya/github-readme-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api?username=mojnomiya&show_icons=true&theme=buefy&border_color=DD2BC7" 
          width="49%" alt="My GitHub Stats were once here..." />
-  </a> -->
+  </a>
   <!-- Github Streak -->
   <a href="https://git.io/streak-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
     <img src="https://streak-stats.demolab.com?user=mojnomiya&theme=tokyonight&mode=daily&border=DD2BC7" 
@@ -127,12 +127,12 @@
 
 
   <!-- Most Used Langs -->
-<!--   
+  
   <br>
   <a href="https://github.com/mojnomiya/github-readme-stats" taret="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojnomiya&layout=compact&theme=tokyonight&border_color=DD2BC7" 
          width="49%" alt="Favorite Languages" />
-  <br> -->
+  <br>
   
   <!-- Commit Snake! -->
   
