@@ -76,6 +76,10 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
           
+      # Create the 'dist' directory
+      - name: Create dist directory
+        run: mkdir dist
+      
       # Generates a snake game from a GitHub user contributions graph
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@v0.0.16
@@ -95,3 +99,4 @@ jobs:
           commit_message: Update the commit graph snake
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
