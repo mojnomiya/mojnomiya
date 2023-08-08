@@ -113,7 +113,7 @@
   </a>
     <a href="https://git.io/streak-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
     <img src="https://streak-stats.demolab.com?user=mojnomiya&theme=buefy&mode=daily&border=DD2BC7" 
-         width="49%" alt="My GitHub Streak was once here..." />
+         width="49%" height="125px" alt="My GitHub Streak was once here..." />
   </a>
    
 
