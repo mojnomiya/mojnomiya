@@ -25,7 +25,7 @@
 - :e-mail: How to reach me: mojnosardar@gmail.com<br/>
 - 🌱 I’m working with Django
 - 🥅 2023 Goals: Microservice, Cloud computing, Software architechture
-- ⚡ Fun fact: I love to Explore the world 
+- ⚡ Fun fact: I love to learn
 
 
 
@@ -37,68 +37,60 @@
   <summary><h2>🛠 Skills and Tools</h2></summary>
   <p align="center">
     <a href="#">
-      <img align="center" height="30" width="35" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="center" height="30" width="30" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     </a>
     <a href="#">
-      <img align="center" height="30" width="35" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+      <img align="center" height="30" width="30" title="JavaScript" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
     </a>
     <a href="#">
-      <img align="center" height="30" width="35" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+      <img align="center" height="30" width="30" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     </a>
     <a href="#">
-      <img align="center" height="30" width="35" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <img align="center" height="30" width="30" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     </a>
     <a href="#">
-      <img align="center" height="30" width="35" title="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+      <img align="center" height="30" width="30" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     </a>
     <a href="#">
-      <img align="center" height="30" width="35" title="PosgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+      <img align="center" height="30" width="30" title="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
     </a>
     <a href="#">
-      <img align="center" height="30" width="35" title="SQLite" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+      <img align="center" height="30" width="30" title="PosgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
     </a>
     <a href="#">
-      <img align="center" height="30" width="35" title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+      <img align="center" height="30" width="30" title="SQLite" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
     </a>
     <a href="#">
-      <img align="center" height="30" width="35" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+      <img align="center" height="30" width="30" title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     </a>
     <a href="#">
-      <img align="center" height="30" width="35" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+      <img align="center" height="30" width="30" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
     </a>
     <a href="#">
-      <img align="center" height="30" width="35" title="Sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+      <img align="center" height="30" width="30" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
     </a>
     <a href="#">
-      <img align="center" height="30" width="35" title="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+      <img align="center" height="30" width="30" title="Sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
     </a>
     <a href="#">
-      <img align="center" height="30" width="35" title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+      <img align="center" height="30" width="30" title="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
     </a>
     <a href="#">
-      <img align="center" height="30" width="35" title="Bash" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg">
+      <img align="center" height="30" width="30" title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" height="30" width="30" title="Bash" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg">
+    </a>
+    <a href="#">
+      <img align="center" height="30" width="30" title="vscode" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
+    </a>
+    <a href="#">
+      <img align="center" height="30" width="30" title="Github" src="https://seeklogo.com/images/G/github-colored-logo-FDDF6EB1F0-seeklogo.com.png">
+    </a>
+    <a href="#">
+      <img align="center" height="30" width="30" title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
     </a>
   </p>
-  <!-- <p>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-    <code><img width="4%" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-    <code><img width="4%" src="https://i.imgur.com/tjPOPhB.png"></code>
-    <code><img width="4%" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
-    <code><img width="4%" src="https://www.bluej.org/objects-first/images/logos/bluej-128-embossed.png"></code>
-    <code><img width="4%" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png"></code>
-    <code><img width="4%" src="https://cdn.iconscout.com/icon/free/png-256/discord-4408614-3649972.png"></code>
-    <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png"></code>
-    <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Neos_VR_Logo.png"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-    <code><img width="4%" src="https://seeklogo.com/images/G/github-colored-logo-FDDF6EB1F0-seeklogo.com.png"></code>
-  </p> -->
 </details>
 
 <details open>
@@ -128,11 +120,16 @@
 
   <!-- Most Used Langs -->
   
-  <br>
-  <a href="https://github.com/mojnomiya/github-readme-stats" taret="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojnomiya&layout=compact&theme=tokyonight&border_color=DD2BC7" 
-         width="49%" alt="Favorite Languages" />
-  <br>
+  <p align="center">
+    <br>
+    <a href="https://github.com/mojnomiya/github-readme-stats" taret="_blank" rel="noopener noreferrer">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojnomiya&layout=compact&theme=tokyonight&border_color=DD2BC7"
+           width="48%" alt="Favorite Languages" />
+    <a href="https://github.com/mojnomiya/github-readme-stats#gh-light-mode-only" taret="_blank" rel="noopener noreferrer">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojnomiya&layout=compact&theme=white&border_color=DD2BC7"
+           width="48%" alt="Favorite Languages" />
+    <br>
+  </p>
   
   <!-- Commit Snake! -->
   
@@ -157,7 +154,7 @@
 
 
 <!-- -
-shanto360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mojnomiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 -
 - -->
