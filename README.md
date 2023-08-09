@@ -122,7 +122,7 @@
   
   <p align="center">
     <br>
-    <a href="https://github.com/mojnomiya/github-readme-stats" taret="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/mojnomiya/github-readme-stats#gh-dark-mode-only" taret="_blank" rel="noopener noreferrer">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojnomiya&layout=compact&theme=tokyonight&border_color=DD2BC7"
            width="48%" alt="Favorite Languages" />
     <a href="https://github.com/mojnomiya/github-readme-stats#gh-light-mode-only" taret="_blank" rel="noopener noreferrer">
