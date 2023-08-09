@@ -100,11 +100,11 @@
   <!-- Github Stats -->
   <a href="https://github.com/mojnomiya/github-readme-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api?username=mojnomiya&show_icons=true&theme=tokyonight&border_color=DD2BC7" 
-         width="49%" alt="My GitHub Stats were once here..." />
+         width="89%" alt="My GitHub Stats were once here..." />
   </a>
     <a href="https://github.com/mojnomiya/github-readme-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api?username=mojnomiya&show_icons=true&theme=buefy&border_color=DD2BC7" 
-         width="49%" alt="My GitHub Stats were once here..." />
+         width="89%" alt="My GitHub Stats were once here..." />
   </a>
   <!-- Github Streak -->
   <a href="https://git.io/streak-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
