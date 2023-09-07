@@ -24,8 +24,7 @@
 - 🤔 I’m looking for people who can help me with Outstanding Video ideas and executions<br/>
 - :e-mail: How to reach me: mojnosardar@gmail.com<br/>
 - 🌱 I’m working with Django
-- 🥅 2023 Goals: Microservice, Cloud computing, Software architechture
-- ⚡ Fun fact: I love to learn
+
 
 
 
