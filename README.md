@@ -24,8 +24,7 @@
 - 🤔 I’m looking for people who can help me with Outstanding Video ideas and executions<br/>
 - :e-mail: How to reach me: mojnosardar@gmail.com<br/>
 - 🌱 I’m working with Django
-- 🥅 2023 Goals: Microservice, Cloud computing, Software architechture
-- ⚡ Fun fact: I love to learn
+
 
 
 
@@ -36,7 +35,7 @@
 <details open>
   <summary><h2>🛠 Skills and Tools</h2></summary>
   <p align="center">
-    <a href="#">
+<!--     <a href="#">
       <img align="center" height="30" width="30" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     </a>
     <a href="#">
@@ -47,7 +46,7 @@
     </a>
     <a href="#">
       <img align="center" height="30" width="30" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    </a>
+    </a> -->
     <a href="#">
       <img align="center" height="30" width="30" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     </a>
@@ -75,9 +74,9 @@
     <a href="#">
       <img align="center" height="30" width="30" title="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
     </a>
-    <a href="#">
+<!--     <a href="#">
       <img align="center" height="30" width="30" title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    </a>
+    </a> -->
     <a href="#">
       <img align="center" height="30" width="30" title="Bash" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg">
     </a>
