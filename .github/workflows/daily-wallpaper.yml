@@ -4,18 +4,18 @@ on:
   workflow_dispatch:
   schedule:
     # Runs at 8:00 UTC everyday - midnight in PST
-    - cron: "0 8 * * *"
+    - cron: "0 */12 * * *"
 
 jobs:
   update-readme:
     name: Update Image README
     runs-on: ubuntu-latest
     steps:
-      - uses: siddharth2016/update-readme-image@main
+      - uses: mojnomiya/update-readme-image@main
         with:
           WIDTH: "100%"
           HEIGHT: "100%"
-          ALIGN: center # duhhh
+          ALIGN: center
           IMG_ALT: Daily Wallpaper
           IMG_PATH: images
           IMG_REPOSITORY: DenverCoder1/minimalistic-wallpaper-collection
