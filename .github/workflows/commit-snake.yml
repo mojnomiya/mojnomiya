@@ -68,13 +68,13 @@ jobs:
     steps:
       # Update Node.js to a more recent version
       - name: Set up Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v4
         with:
           node-version: '16' # Use Node.js version 16
       
       # Checkout the repository
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
           
       # Create the 'dist' directory
       - name: Create dist directory
