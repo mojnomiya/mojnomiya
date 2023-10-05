@@ -71,6 +71,8 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 20
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       # Checkout the repository
       - name: Checkout code
