@@ -18,14 +18,14 @@
 ###
     I'm a Python Lover!
 
-
+<!--
 - 🔭 I’m currently working at Sellzzy Digital Commerece LLC!
 - :hearts: I enjoy programming and sharing knowledge <br/>
 - 🤔 I’m looking for people who can help me with Outstanding Video ideas and executions<br/>
 - :e-mail: How to reach me: mojnosardar@gmail.com<br/>
 - 🌱 I’m working with Django
 - 🌱 I’m learning with Frontend Technologies.
-
+-->
 
 
 
