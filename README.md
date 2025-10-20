@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Md Mojno Miya  
+# Hi, I'm Md Mojno Miya  
 
-**Django Developer | Python Enthusiast | API Integrator | MVP & SaaS Developer at Startup Speed **  
+** Django Developer | Python Enthusiast | API Integrator | MVP & SaaS Developer at Startup Speed **  
 I specialize in building scalable web applications, integrating APIs, and automating business workflows.  
 Passionate about clean architecture, modular code, and process automation.  
 
