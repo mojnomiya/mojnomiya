@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Md Mojno Miya  
 
-🚀 **Django Developer | Python Enthusiast | API Integrator**  
-I specialize in building scalable web applications, integrating APIs, and automating business workflows. Passionate about clean architecture, modular code, and process automation.  
+**Django Developer | Python Enthusiast | API Integrator | MVP & SaaS Developer at Startup Speed **  
+I specialize in building scalable web applications, integrating APIs, and automating business workflows.  
+Passionate about clean architecture, modular code, and process automation.  
 
 ---
 
-### 🧰 Tech Stack & Skills  
+### Tech Stack & Skills  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -28,13 +29,28 @@ I specialize in building scalable web applications, integrating APIs, and automa
 
 ---
 
-### 🧠 Currently Exploring  
-- **Salesforce Admin Path** 🧩  
+### Currently Exploring  
+- **AI/ML** 🧩  
 - **AI-powered app development** using Cursor & Amazon Q Developer  
 
 ---
 
-### 📦 Featured Projects  
+### Tools I Use Daily  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor_AI-2E2E2E?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_Q_Developer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-3A76F0?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terminal-Zsh-4EAA25?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+</p>
+
+---
+
+### Featured Projects  
 
 | Project | Description |
 |----------|--------------|
@@ -43,7 +59,7 @@ I specialize in building scalable web applications, integrating APIs, and automa
 
 ---
 
-### 📊 GitHub Insights  
+### GitHub Insights  
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mojnomiya&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
@@ -56,7 +72,7 @@ I specialize in building scalable web applications, integrating APIs, and automa
 
 ---
 
-### 🌐 Connect With Me  
+### Connect With Me  
 
 <p align="center">
   <a href="https://github.com/mojnomiya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -65,4 +81,4 @@ I specialize in building scalable web applications, integrating APIs, and automa
 
 ---
 
-⭐ **“Code with purpose, automate with precision.”**
+**“Code with purpose, automate with precision.”**
