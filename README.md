@@ -17,7 +17,7 @@
 ## Tech Stack & Skills
 
 ### Languages & Frameworks
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
@@ -25,7 +25,7 @@
 </p>
 
 ### Frontend & Styling
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/HTMX-3366CC?style=for-the-badge&logo=htmx&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -34,7 +34,7 @@
 </p>
 
 ### Databases & Caching
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
@@ -42,7 +42,7 @@
 </p>
 
 ### DevOps & Tools
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
@@ -51,7 +51,7 @@
 </p>
 
 ### APIs & Integration
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Webhooks-000000?style=for-the-badge&logo=webhook&logoColor=white" />
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
@@ -79,7 +79,7 @@
 
 ## Development Environment
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor_AI-2E2E2E?style=for-the-badge&logo=openai&logoColor=white" />
@@ -94,13 +94,13 @@
 
 <p align="center">
   <a href="https://pypi.org/project/wagtail-subscriptions/">
-    <img src="https://img.shields.io/pypi/v/wagtail-subscriptions?style=for-the-badge&logo=pypi&logoColor=white&color=3775A9" alt="wagtail-subscriptions" />
+    <img src="https://img.shields.io/pypi/v/wagtail-subscriptions?style=for-the-badge&logo=pypi&logoColor=white&color=3775A9&label=wagtail-subscriptions" alt="wagtail-subscriptions" />
   </a>
   <a href="https://pypi.org/project/pathao/">
-    <img src="https://img.shields.io/pypi/v/pathao?style=for-the-badge&logo=pypi&logoColor=white&color=3775A9" alt="pathao" />
+    <img src="https://img.shields.io/pypi/v/pathao?style=for-the-badge&logo=pypi&logoColor=white&color=3775A9&label=pathao" alt="pathao" />
   </a>
   <a href="https://pypi.org/project/steadfast-python/">
-    <img src="https://img.shields.io/pypi/v/steadfast-python?style=for-the-badge&logo=pypi&logoColor=white&color=3775A9" alt="steadfast-python" />
+    <img src="https://img.shields.io/pypi/v/steadfast-python?style=for-the-badge&logo=pypi&logoColor=white&color=3775A9&label=steadfast-python" alt="steadfast-python" />
   </a>
 </p>
 
@@ -115,22 +115,22 @@
     <th>Tech Stack</th>
   </tr>
   <tr>
-    <td><b>Shopify Automation Demo</b></td>
+    <td><b><a href="https://github.com/mojnomiya/shopify_automation_demo">Shopify Automation Demo</a></b></td>
     <td>Django app automating Shopify order fulfillment workflows</td>
     <td><code>Django</code> <code>Celery</code> <code>REST API</code></td>
   </tr>
   <tr>
-    <td><b>Wagtail Subscriptions</b></td>
+    <td><b><a href="https://github.com/mojnomiya/wagtail_subscriptions">Wagtail Subscriptions</a></b></td>
     <td>Subscription-based system built with Wagtail CMS</td>
     <td><code>Wagtail</code> <code>Django</code> <code>PostgreSQL</code></td>
   </tr>
   <tr>
-    <td><b>Pathao Python SDK</b></td>
+    <td><b><a href="https://github.com/mojnomiya/pathao-python">Pathao Python SDK</a></b></td>
     <td>Comprehensive Python SDK for Pathao Courier Merchant API</td>
     <td><code>Python</code> <code>REST API</code> <code>SDK</code></td>
   </tr>
   <tr>
-    <td><b>Steadfast Python SDK</b></td>
+    <td><b><a href="https://github.com/mojnomiya/steadfast-python">Steadfast Python SDK</a></b></td>
     <td>Python SDK for Steadfast Courier API integration</td>
     <td><code>Python</code> <code>REST API</code> <code>SDK</code></td>
   </tr>
@@ -141,13 +141,6 @@
     <img src="https://img.shields.io/badge/View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-| Project | Links |
-|----------|--------------|
-| [Shopify Automation Demo](https://github.com/mojnomiya/shopify_automation_demo) | [![GitHub](https://img.shields.io/badge/View-181717?style=flat&logo=github)](https://github.com/mojnomiya/shopify_automation_demo) |
-| [Wagtail Subscriptions](https://github.com/mojnomiya/wagtail_subscriptions) | [![GitHub](https://img.shields.io/badge/View-181717?style=flat&logo=github)](https://github.com/mojnomiya/wagtail_subscriptions) [![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat&logo=pypi&logoColor=white)](https://pypi.org/project/wagtail-subscriptions/) |
-| [Pathao Python SDK](https://github.com/mojnomiya/pathao-python) | [![GitHub](https://img.shields.io/badge/View-181717?style=flat&logo=github)](https://github.com/mojnomiya/pathao-python) [![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat&logo=pypi&logoColor=white)](https://pypi.org/project/pathao/) |
-| [Steadfast Python SDK](https://github.com/mojnomiya/steadfast-python) | [![GitHub](https://img.shields.io/badge/View-181717?style=flat&logo=github)](https://github.com/mojnomiya/steadfast-python) [![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat&logo=pypi&logoColor=white)](https://pypi.org/project/steadfast-python/) |
 
 ---
 
@@ -171,7 +164,7 @@
   <summary><b>GitHub Trophies</b></summary>
   <br>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mojnomiya&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mojnomiya&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1" />
   </p>
 </details>
 
