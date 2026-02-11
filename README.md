@@ -166,7 +166,10 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojnomiya&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e7ff&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mojnomiya&bg_color=0d1117&color=00e7ff&line=00e7ff&point=ffffff&area=true&hide_border=true&height=180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mojnomiya&bg_color=0d1117&color=00e7ff&line=00e7ff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 <details align="center">
