@@ -9,8 +9,82 @@
 
 <p align="center">
   <b>Building scalable web applications | Integrating APIs | Automating business workflows</b><br>
-  <i>Passionate about clean architecture, modular code, and process automation</i>
+  <i>Passionate about clean architecture, modular code, and process automation</i><br>
+  <a href="https://medium.com/@mmoznu">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
 </p>
+
+---
+
+## Skill Proficiency
+
+**Backend Development**
+![Python](https://img.shields.io/badge/Python-Expert-00e7ff?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-Expert-00e7ff?style=flat&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-Advanced-00e7ff?style=flat)
+
+**Frontend Development**
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-00e7ff?style=flat&logo=javascript&logoColor=white)
+![HTMX](https://img.shields.io/badge/HTMX-Advanced-00e7ff?style=flat&logo=htmx&logoColor=white)
+![React](https://img.shields.io/badge/React-Intermediate-00e7ff?style=flat&logo=react&logoColor=white)
+
+**DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-Advanced-00e7ff?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Intermediate-00e7ff?style=flat&logo=amazonaws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-Advanced-00e7ff?style=flat)
+
+---
+
+## Career Timeline
+
+```mermaid
+gantt
+    title Professional Journey
+    dateFormat YYYY-MM
+    section NexBell Inc
+    Intern Developer           :2023-11, 2024-02
+    Junior Developer          :2024-03, 2025-04
+    Associate Developer       :2025-05, 2025-11
+    section Freelance
+    CashSheet LLC             :2025-08, 2026-03
+```
+
+---
+
+## Work Experience
+
+### Freelance Software Developer
+**CashSheet LLC** | Aug 2025 - Present | Remote, United States
+
+- Independently developing a multi-tenant, double-entry accounting platform
+- Built core accounting features: ledger & journal management, transaction processing, multi-organization setup with RBAC
+- Integrated Wagtail CMS for flexible content management
+- Implemented dual-level Stripe billing (platform & tenant-level)
+- Managing full lifecycle: system design, backend development, database modeling, deployment, and maintenance
+
+### Associate Software Developer
+**NexBell Inc** | May 2025 - Nov 2025 | Remote, Bangladesh
+
+- Led and mentored intern development team, ensuring task clarity and sprint alignment
+- Introduced REST APIs within existing MVT architecture, enhancing system interoperability
+- Refactored legacy codebase, improving performance, maintainability, and scalability
+- Conducted code reviews and maintained high standards for code quality
+- Assisted in sprint planning and task allocation for timely project delivery
+
+### Junior Software Developer
+**NexBell Inc** | Mar 2024 - Apr 2025 | Bangladesh
+
+- Developed and maintained Django-based applications
+- Implemented Django REST Framework APIs
+- Collaborated with cross-functional teams on project delivery
+
+### Intern Software Developer
+**NexBell Inc** | Nov 2023 - Feb 2024 | Remote, Bangladesh
+
+- Built digital product selling platform integrating third-party services
+- Optimized application for seamless user experience
+- Fixed bugs, tested applications, and organized codebase for redeployment
 
 ---
 
@@ -73,6 +147,19 @@
 
 ---
 
+## Development Environment
+
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor_AI-2E2E2E?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_Q_Developer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-3A76F0?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terminal-Zsh-4EAA25?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+</p>
+
+---
+
 ## Currently Exploring
 
 <table align="center">
@@ -90,19 +177,6 @@
 
 ---
 
-## Development Environment
-
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor_AI-2E2E2E?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_Q_Developer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-3A76F0?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terminal-Zsh-4EAA25?style=for-the-badge&logo=gnometerminal&logoColor=white" />
-</p>
-
----
-
 ## Published PyPI Packages
 
 <p align="center">
@@ -114,6 +188,18 @@
   </a>
   <a href="https://pypi.org/project/steadfast-python/">
     <img src="https://img.shields.io/pypi/v/steadfast-python?style=for-the-badge&logo=pypi&logoColor=white&color=3775A9&label=steadfast-python" alt="steadfast-python" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://pypi.org/project/wagtail-subscriptions/">
+    <img src="https://img.shields.io/pypi/dm/wagtail-subscriptions?style=flat&logo=pypi&logoColor=white&color=3775A9&label=wagtail-subscriptions%20downloads" alt="wagtail-subscriptions downloads" />
+  </a>
+  <a href="https://pypi.org/project/pathao/">
+    <img src="https://img.shields.io/pypi/dm/pathao?style=flat&logo=pypi&logoColor=white&color=3775A9&label=pathao%20downloads" alt="pathao downloads" />
+  </a>
+  <a href="https://pypi.org/project/steadfast-python/">
+    <img src="https://img.shields.io/pypi/dm/steadfast-python?style=flat&logo=pypi&logoColor=white&color=3775A9&label=steadfast-python%20downloads" alt="steadfast-python downloads" />
   </a>
 </p>
 
@@ -157,15 +243,28 @@
 
 ---
 
-## GitHub Analytics
+## GitHub Metrics Dashboard
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mojnomiya&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e7ff&icon_color=00e7ff&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mojnomiya&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00e7ff&ring=00e7ff&fire=00e7ff&currStreakLabel=00e7ff" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mojnomiya&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojnomiya&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e7ff&text_color=c9d1d9" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mojnomiya&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mojnomiya&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mojnomiya&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mojnomiya&theme=github_dark" />
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mojnomiya&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00e7ff&ring=00e7ff&fire=00e7ff&currStreakLabel=00e7ff" />
 </p>
 
 <p align="center">
@@ -179,6 +278,65 @@
     <img src="https://github-profile-trophy.vercel.app/?username=mojnomiya&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1" />
   </p>
 </details>
+
+---
+
+## Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/mojnomiya/repo/pull/1) in [mojnomiya/repo](https://github.com/mojnomiya/repo)
+2. 💪 Opened PR [#1](https://github.com/mojnomiya/repo/pull/1) in [mojnomiya/repo](https://github.com/mojnomiya/repo)
+3. 🗣 Commented on [#1](https://github.com/mojnomiya/repo/issues/1) in [mojnomiya/repo](https://github.com/mojnomiya/repo)
+<!--END_SECTION:activity-->
+
+---
+
+## Coding Philosophy
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Md Mojno Miya"
+        self.role = "Django Developer"
+        self.language_spoken = ["bn_BD", "en_US"]
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together.")
+
+    @property
+    def current_focus(self):
+        return [
+            "Building scalable SaaS platforms",
+            "Exploring AI/ML integration",
+            "Contributing to open source"
+        ]
+
+me = Developer()
+me.say_hi()
+```
+
+---
+
+## Learning Goals
+
+- **Advanced System Design** - Microservices architecture and distributed systems
+- **Machine Learning** - Integrating ML models into Django applications
+- **Go Programming** - Building high-performance backend services
+- **Cloud Architecture** - AWS Solutions Architect certification path
+- **DevOps Practices** - Kubernetes and advanced CI/CD pipelines
+
+---
+
+## Availability
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Freelance-Available-success?style=for-the-badge&logo=freelancer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--Time-Open%20to%20Opportunities-blue?style=for-the-badge&logo=handshake&logoColor=white" />
+</p>
+
+<p align="center">
+  <i>Open to interesting projects and full-time opportunities. Let's discuss how I can help bring your ideas to life!</i>
+</p>
 
 ---
 
