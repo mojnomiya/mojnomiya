@@ -288,9 +288,9 @@ gantt
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/mojnomiya/repo/pull/1) in [mojnomiya/repo](https://github.com/mojnomiya/repo)
-2. 💪 Opened PR [#1](https://github.com/mojnomiya/repo/pull/1) in [mojnomiya/repo](https://github.com/mojnomiya/repo)
-3. 🗣 Commented on [#1](https://github.com/mojnomiya/repo/issues/1) in [mojnomiya/repo](https://github.com/mojnomiya/repo)
+1. 💪 Opened PR [#1](https://github.com/shemanto27/One-Click-Production-Ready-Django-Backend-Setup/pull/1) in [shemanto27/One-Click-Production-Ready-Django-Backend-Setup](https://github.com/shemanto27/One-Click-Production-Ready-Django-Backend-Setup)
+2. 🎉 Merged PR [#2](https://github.com/mojnomiya/django-ledger/pull/2) in [mojnomiya/django-ledger](https://github.com/mojnomiya/django-ledger)
+3. 💪 Opened PR [#2](https://github.com/mojnomiya/django-ledger/pull/2) in [mojnomiya/django-ledger](https://github.com/mojnomiya/django-ledger)
 <!--END_SECTION:activity-->
 
 ---
