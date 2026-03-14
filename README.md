@@ -164,13 +164,17 @@ gantt
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <b>AI/ML Integration</b>
       <br><sub>Exploring machine learning models</sub>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <b>AI-Powered Development</b>
       <br><sub>Using Cursor & Amazon Q Developer</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>Smart Contract Development</b>
+      <br><sub>Ethereum blockchain & Solidity</sub>
     </td>
   </tr>
 </table>
@@ -324,6 +328,7 @@ me.say_hi()
 - **Go Programming** - Building high-performance backend services
 - **Cloud Architecture** - AWS Solutions Architect certification path
 - **DevOps Practices** - Kubernetes and advanced CI/CD pipelines
+- **Smart Contract Development** - Ethereum blockchain and Solidity programming
 
 ---
 
