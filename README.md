@@ -164,17 +164,21 @@ gantt
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <b>AI/ML Integration</b>
       <br><sub>Exploring machine learning models</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <b>AI-Powered Development</b>
       <br><sub>Using Cursor & Amazon Q Developer</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <b>Smart Contract Development</b>
       <br><sub>Ethereum blockchain & Solidity</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>Go Programming</b>
+      <br><sub>Building high-performance backend services</sub>
     </td>
   </tr>
 </table>
