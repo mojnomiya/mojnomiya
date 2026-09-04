@@ -292,9 +292,9 @@ gantt
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.2](https://github.com/mojnomiya/wagtail_subscriptions/releases/tag/v0.1.2) in [mojnomiya/wagtail_subscriptions](https://github.com/mojnomiya/wagtail_subscriptions)
-2. 💪 Opened PR [#234](https://github.com/wagtail/awesome-wagtail/pull/234) in [wagtail/awesome-wagtail](https://github.com/wagtail/awesome-wagtail)
-3. 💪 Opened PR [#2](https://github.com/mojnomiya/django-ledger/pull/2) in [mojnomiya/django-ledger](https://github.com/mojnomiya/django-ledger)
+1. 🎉 Merged PR [#1](https://github.com/mojnomiya/ExifCloak/pull/1) in [mojnomiya/ExifCloak](https://github.com/mojnomiya/ExifCloak)
+2. 💪 Opened PR [#1](https://github.com/mojnomiya/ExifCloak/pull/1) in [mojnomiya/ExifCloak](https://github.com/mojnomiya/ExifCloak)
+3. 🚀 Published release [v0.1.2](https://github.com/mojnomiya/wagtail_subscriptions/releases/tag/v0.1.2) in [mojnomiya/wagtail_subscriptions](https://github.com/mojnomiya/wagtail_subscriptions)
 <!--END_SECTION:activity-->
 
 ---
