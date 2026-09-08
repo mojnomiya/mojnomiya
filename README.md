@@ -292,9 +292,9 @@ gantt
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/mojnomiya/ExifCloak/pull/1) in [mojnomiya/ExifCloak](https://github.com/mojnomiya/ExifCloak)
-2. 💪 Opened PR [#1](https://github.com/mojnomiya/ExifCloak/pull/1) in [mojnomiya/ExifCloak](https://github.com/mojnomiya/ExifCloak)
-3. 🚀 Published release [v0.1.2](https://github.com/mojnomiya/wagtail_subscriptions/releases/tag/v0.1.2) in [mojnomiya/wagtail_subscriptions](https://github.com/mojnomiya/wagtail_subscriptions)
+1. 🚀 Published release [v0.1.0](https://github.com/mojnomiya/django-stripe-marketplace/releases/tag/v0.1.0) in [mojnomiya/django-stripe-marketplace](https://github.com/mojnomiya/django-stripe-marketplace)
+2. 🚀 Published release [v0.1.1](https://github.com/mojnomiya/django-quickbooks-sync/releases/tag/v0.1.1) in [mojnomiya/django-quickbooks-sync](https://github.com/mojnomiya/django-quickbooks-sync)
+3. 🚀 Published release [v0.1.0](https://github.com/mojnomiya/django-quickbooks-sync/releases/tag/v0.1.0) in [mojnomiya/django-quickbooks-sync](https://github.com/mojnomiya/django-quickbooks-sync)
 <!--END_SECTION:activity-->
 
 ---
