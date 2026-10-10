@@ -10,7 +10,7 @@
 <p align="center">
   <b>Building scalable web applications | Integrating APIs | Automating business workflows</b><br>
   <i>Passionate about clean architecture, modular code, and process automation</i><br>
-  <b>Founder of <a href="https://quizcram.com">QuizCram</a></b><br>
+  <b>Founder of <a href="https://quizcram.com?utm_source=github.com">QuizCram</a></b><br>
   <a href="https://medium.com/@mmoznu">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
@@ -243,7 +243,7 @@ gantt
     <td><code>Python</code> <code>REST API</code> <code>SDK</code></td>
   </tr>
   <tr>
-    <td><b><a href="https://quizcram.com">QuizCram</a></b></td>
+    <td><b><a href="https://quizcram.com?utm_source=github.com">QuizCram</a></b></td>
     <td>Interactive exam preparation platform for focused, effective study</td>
     <td><code>EdTech</code> <code>Web Platform</code> <code>Exam Prep</code></td>
   </tr>
