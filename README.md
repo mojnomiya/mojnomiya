@@ -208,7 +208,7 @@ gantt
     <img src="https://img.shields.io/pypi/dm/pathao?style=flat&logo=pypi&logoColor=white&color=3775A9&label=pathao%20downloads" alt="pathao downloads" />
   </a>
   <a href="https://pypi.org/project/steadfast-python/">
-    <img src="https://img.shields.io/pypi/dm/steadfast-python?style=flat&logo=pypi&logoColor=white&color=3775A9&label=steadfast-python downloads" alt="steadfast-python downloads" />
+    <img src="https://img.shields.io/pypi/dm/steadfast-python?style=flat&logo=pypi&logoColor=white&color=3775A9&label=steadfast-python%20downloads" alt="steadfast-python downloads" />
   </a>
 </p>
 
@@ -241,6 +241,11 @@ gantt
     <td><b><a href="https://github.com/mojnomiya/steadfast-python">Steadfast Python SDK</a></b></td>
     <td>Python SDK for Steadfast Courier API integration</td>
     <td><code>Python</code> <code>REST API</code> <code>SDK</code></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://quizcram.com">QuizCram</a></b></td>
+    <td>Interactive exam preparation platform for focused, effective study</td>
+    <td><code>EdTech</code> <code>Web Platform</code> <code>Exam Prep</code></td>
   </tr>
 </table>
 
@@ -377,3 +382,4 @@ me.say_hi()
 <p align="center">
   <b>"Code with purpose, automate with precision."</b>
 </p>
+
