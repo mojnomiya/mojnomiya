@@ -10,6 +10,7 @@
 <p align="center">
   <b>Building scalable web applications | Integrating APIs | Automating business workflows</b><br>
   <i>Passionate about clean architecture, modular code, and process automation</i><br>
+  <b>Founder of <a href="https://quizcram.com">QuizCram</a></b><br>
   <a href="https://medium.com/@mmoznu">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
@@ -207,7 +208,7 @@ gantt
     <img src="https://img.shields.io/pypi/dm/pathao?style=flat&logo=pypi&logoColor=white&color=3775A9&label=pathao%20downloads" alt="pathao downloads" />
   </a>
   <a href="https://pypi.org/project/steadfast-python/">
-    <img src="https://img.shields.io/pypi/dm/steadfast-python?style=flat&logo=pypi&logoColor=white&color=3775A9&label=steadfast-python%20downloads" alt="steadfast-python downloads" />
+    <img src="https://img.shields.io/pypi/dm/steadfast-python?style=flat&logo=pypi&logoColor=white&color=3775A9&label=steadfast-python downloads" alt="steadfast-python downloads" />
   </a>
 </p>
 
@@ -376,4 +377,3 @@ me.say_hi()
 <p align="center">
   <b>"Code with purpose, automate with precision."</b>
 </p>
-
