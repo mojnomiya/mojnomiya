@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <b>Building scalable web applications | Integrating APIs | Automating business workflows</b><br>
+  <b>Founded [QuizCram](quizcram.com). Building scalable web applications | Integrating APIs | Automating business workflows</b><br>
   <i>Passionate about clean architecture, modular code, and process automation</i><br>
   <a href="https://medium.com/@mmoznu">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
