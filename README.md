@@ -298,7 +298,7 @@ gantt
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0](https://github.com/mojnomiya/django-stripe-marketplace/releases/tag/v0.1.0) in [mojnomiya/django-stripe-marketplace](https://github.com/mojnomiya/django-stripe-marketplace)
+1. 🎉 Merged PR [#234](https://github.com/wagtail/awesome-wagtail/pull/234) in [wagtail/awesome-wagtail](https://github.com/wagtail/awesome-wagtail)
 2. 🚀 Published release [v0.1.1](https://github.com/mojnomiya/django-quickbooks-sync/releases/tag/v0.1.1) in [mojnomiya/django-quickbooks-sync](https://github.com/mojnomiya/django-quickbooks-sync)
 3. 🚀 Published release [v0.1.0](https://github.com/mojnomiya/django-quickbooks-sync/releases/tag/v0.1.0) in [mojnomiya/django-quickbooks-sync](https://github.com/mojnomiya/django-quickbooks-sync)
 <!--END_SECTION:activity-->
